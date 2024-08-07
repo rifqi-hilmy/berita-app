@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152315440729",
+    "project_id": "beritakini-74290",
+    "storage_bucket": "beritakini-74290.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152315440729:android:b20c15737a2f4982774b48",
+        "android_client_info": {
+          "package_name": "com.example.beritakini"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDB6hJQ_Fo9iFPtddKyhoqmWvOy-DFLb2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
